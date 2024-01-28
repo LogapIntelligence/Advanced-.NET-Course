@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advanced .NET Course (8.0)", "Advanced .NET Course (8.0)\Advanced .NET Course (8.0).csproj", "{F846833C-5CBB-4A58-B64B-F8ACA8941144}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F846833C-5CBB-4A58-B64B-F8ACA8941144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F846833C-5CBB-4A58-B64B-F8ACA8941144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F846833C-5CBB-4A58-B64B-F8ACA8941144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F846833C-5CBB-4A58-B64B-F8ACA8941144}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DB55767-187C-49AE-A75B-C0CAA2D21944}
+	EndGlobalSection
+EndGlobal
